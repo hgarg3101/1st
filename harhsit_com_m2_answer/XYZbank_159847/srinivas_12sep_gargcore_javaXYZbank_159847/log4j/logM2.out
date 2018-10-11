@@ -1,0 +1,83 @@
+log test
+log test
+log test
+log test
+log test
+connection created**
+Object of prepared statement
+create statement using con.create statement
+Excuting sequence.nextval and storing it into a result set
+value of Transaction id is set
+value of Customer_name is set
+value of in_favour_of is set
+value of phone_number is set
+value of date_of_transaction is set
+value of dd_amount is set
+value of dd_commission is set
+value of dd_description is set
+Executing updation
+1 row inserted
+Connection closed**
+connection created**
+Object of prepared statement
+create statement using con.create statement
+Excuting sequence.nextval and storing it into a result set
+value of Transaction id is set
+value of Customer_name is set
+value of in_favour_of is set
+value of phone_number is set
+value of date_of_transaction is set
+value of dd_amount is set
+value of dd_commission is set
+value of dd_description is set
+Executing updation
+1 row inserted
+Connection closed**
+log test
+connection created**
+Object of prepared statement
+create statement using con.create statement
+Excuting sequence.nextval and storing it into a result set
+value of Transaction id is set
+value of Customer_name is set
+value of in_favour_of is set
+value of phone_number is set
+value of date_of_transaction is set
+value of dd_amount is set
+value of dd_commission is set
+value of dd_description is set
+Executing updation
+1 row inserted
+Connection closed**
+log test
+Connection created and retrives into con object**
+create statement using con.create statement used to execute sequence query separately
+Executing sequence.nextval and storing it into a result set
+Object of prepared statement by passing  sql string into prepare statement method present in con object. For inputing values into the table
+value of Transaction id is set
+value of Customer_name is set
+value of in_favour_of is set
+value of phone_number is set
+value of date_of_transaction is set
+value of dd_amount is set
+value of dd_commission is set
+value of dd_description is set
+Executing updation
+1 row inserted
+Connection closed**
+log test
+Connection created and retrives into con object**
+create statement using con.create statement used to execute sequence query separately
+Executing sequence.nextval and storing it into a result set
+Object of prepared statement by passing  sql string into prepare statement method present in con object. For inputing values into the table
+value of Transaction id is set
+value of Customer_name is set
+value of in_favour_of is set
+value of phone_number is set
+value of date_of_transaction is set
+value of dd_amount is set
+value of dd_commission is set
+value of dd_description is set
+Executing updation
+1 row inserted
+Connection closed**
